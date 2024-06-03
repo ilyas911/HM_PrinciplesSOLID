@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_PrinciplesSOLID", "HW_PrinciplesSOLID.csproj", "{2900C8AC-14BA-4A61-B0C2-126E68C33013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2900C8AC-14BA-4A61-B0C2-126E68C33013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2900C8AC-14BA-4A61-B0C2-126E68C33013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2900C8AC-14BA-4A61-B0C2-126E68C33013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2900C8AC-14BA-4A61-B0C2-126E68C33013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68E6DD85-6563-4D02-862B-74810CD63D00}
+	EndGlobalSection
+EndGlobal
